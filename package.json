@@ -2,6 +2,7 @@
   "name": "react-express-template-ts",
   "version": "1.0.0",
   "main": "index.js",
+  "private": true,
   "repository": "https://github.com/neilchetna/react-express-template-ts.git",
   "author": "neilchetna <neelchetna18@gmail.com>",
   "license": "MIT",
